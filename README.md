@@ -7,7 +7,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 # Working hard to become a senior full-stack blockchain dev.  
 
 - 💻 I'm part of the [Moralis](https://moralis.io/) Blockchain research and dev teams
-- 🎓 I'm a Solidity mentor at <a hre="https://twitter.com/banklessDAO">BanklessDAO</a>
+- 🎓 I'm a Solidity mentor at <a href="https://twitter.com/banklessDAO">BanklessDAO</a>
 - 👨‍💻 <a href="https://twitter.com/EthernautDAO">EthernautDAO:</a> I'm currenly being mentored by <a href="https://twitter.com/austingriffith">Austin Griffith</a>, a builder on Ethereum and creator of <a href="https://github.com/austintgriffith/scaffold-eth">scaffold-eth</a> and more.
 - 🧠 I'm  taking the [DeFi blockchain development](https://eattheblocks-pro.teachable.com/p/defi-development-mastery) course at [EatTheBlocks](https://eattheblocks.com/)
 - 📚 I'm deepening my knowledge in [NextJs](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
