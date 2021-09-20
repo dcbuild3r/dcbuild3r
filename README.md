@@ -28,7 +28,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 
 [<img align="left" alt="Solidity" height="40px" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.9/1591478443875/Microsoft.VisualStudio.Services.Icons.Default" />][solidity]
 [<img align="left" alt="Hardhat" width="40px" src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg.jpg" />][hardhat]
-<img align="left" alt="Metamask" height="40px" src="https://en.bitcoinwiki.org/upload/en/images/e/eb/Metamask.png" />
+<img align="left" alt="Metamask" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/440px-MetaMask_Fox.svg.png" />
 <img align="left" alt="OpenZeppelin" height="40px" src="https://cdn.stateofthedapps.com/dapps/openzeppelin/logo_openzeppelin_b8c833659d043cf69a7dd13d3487defdac2af8fd9d487db68e457f129284f8dc_opti.png" />
 <img align="left" alt="Moralis" height="40px" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" />
 <img align="left" alt="ethers.js" height="40px" src="https://docs.ethers.io/v5/static/logo.svg" />
