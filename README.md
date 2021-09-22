@@ -59,28 +59,6 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 
 <br />
 
-<br />
-
-[//]: ## AI/ML + Data Science
-
-[//] :<img align="left" alt="Python" width="40px" src="https://i.pinimg.com/originals/77/88/25/778825be381be66db27d56ba533034ea.png" />
-[//] :<img align="left" alt="TensorFlow" width="40px" src="https://3.bp.blogspot.com/-/y7Hif1cowAM/XfBhDhB_ARI/AAAAAAAABlo/blLV7czsGqcnmWc9njmzUnp0yh6kNZRAgCLcBGAsYHQ/s1600/1_b4otA55Us-hoI57lqUfplA.png" />
-[//] :<img align="left" alt="NumPy" width="40px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
-[//] :<img align="left" alt="Pandas" width="40px" src="https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
-[//] :<img align="left" alt="Matplotlib" height="26px" src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" />
-[//] :<img align="left" alt="Seaborn" height="35px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-[//] :<img align="left" alt="Keras" height="35px" src="https://keras.io/img/logo-k-keras-wb.png" />
-[//] :<img align="left" alt="Scikit-learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />  
-[//] :<img align="left" alt="Scipy" height="40px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
-[//] :<img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-[//] :<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
-
-<br /> 
-
-<br />
-
-<br />
-
 <br /> 
 
 
