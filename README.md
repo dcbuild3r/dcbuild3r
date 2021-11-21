@@ -19,9 +19,9 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - HardHat
 - Ethers.js
 - scaffold-eth
-- DappTools
+- Learning DappTools
 - Moralis
-- TheGraph
+- Learning TheGraph
 - OpenZeppelin
 
 ### Full Stack Development
@@ -31,7 +31,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - ChakraUI
 - PostgreSQL
 - Node.js
-- GraphQL
+- Learning GraphQL
 - Python
 - Learning Rust
 
