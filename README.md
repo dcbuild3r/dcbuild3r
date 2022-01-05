@@ -19,7 +19,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - HardHat
 - Ethers.js
 - scaffold-eth
-- Learning DappTools
+- Learning DappTools + Foundry
 - Moralis
 - Learning TheGraph
 - OpenZeppelin
