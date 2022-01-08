@@ -9,9 +9,8 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - 💻 I'm part of the [Moralis](https://moralis.io/) Blockchain research team
 - 🎓 I'm a Solidity mentor at <a href="https://twitter.com/banklessDAO">BanklessDAO</a>
 - 👨‍💻 <a href="https://twitter.com/EthernautDAO">EthernautDAO:</a> I underwent a mentorship program by <a href="https://twitter.com/austingriffith">Austin Griffith</a>, a builder on Ethereum and creator of <a href="https://github.com/austintgriffith/scaffold-eth">scaffold-eth</a> and more.
-- 📚 I'm deepening my knowledge in [NextJs](https://nextjs.org/)
 - Learning by following my Twitter frens on GitHub [@transmissions11](https://twitter.com/transmissions11), [@m1guelpf](https://twitter.com/m1guelpf), [@gakonst](https://twitter.com/gakonst), etc
-- 🔥 I have a passion for finance, cryptocurrencies, blockchain, NFTs, AI, and more.
+- 🔥 I have a passion for web3, AI, mathematics, physics and more.
 - 🎯 My current goal is to become a highly skilled blockchain developer in order to create the future of human interaction and coordination.
 
 ### Blockchain Development (Ethereum decentralized applications)
