@@ -22,7 +22,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - Learning DappTools + Foundry
 - Moralis
 - Learning TheGraph
-- OpenZeppelin
+- OpenZeppelin / Solmate (you gotta love @transmissions11)
 
 ### Full Stack Development
 
