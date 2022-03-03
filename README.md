@@ -7,7 +7,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 # Working hard to become a senior full-stack blockchain dev.  
 
 - 💻 I'm part of the [Moralis](https://moralis.io/) Blockchain research team
-- 🎓 I'm a Solidity mentor at <a href="https://twitter.com/banklessDAO">BanklessDAO</a>
+- 🎓 I'm writing a blockchain development guide, stay tuned ([devpill.me](https://devpill.me/) / [Twitter](https://twitter.com/devpillme)
 - 👨‍💻 <a href="https://twitter.com/EthernautDAO">EthernautDAO:</a> I underwent a mentorship program by <a href="https://twitter.com/austingriffith">Austin Griffith</a>, a builder on Ethereum and creator of <a href="https://github.com/austintgriffith/scaffold-eth">scaffold-eth</a> and more.
 - Learning by following my Twitter frens on GitHub [@transmissions11](https://twitter.com/transmissions11), [@m1guelpf](https://twitter.com/m1guelpf), [@gakonst](https://twitter.com/gakonst), etc
 - 🔥 I have a passion for web3, AI, mathematics, physics and more.
@@ -18,9 +18,7 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 - Solidity
 - HardHat
 - Ethers.js
-- scaffold-eth
-- Learning DappTools + Foundry
-- Moralis
+- Learning Foundry
 - Learning TheGraph
 - OpenZeppelin / Solmate (you gotta love @transmissions11)
 
