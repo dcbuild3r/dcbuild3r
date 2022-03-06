@@ -26,11 +26,11 @@ Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L
 
 - React
 - Next.js
-- ChakraUI
+- ChakraUI / Tailwind.css
+- Python
 - PostgreSQL
 - Node.js
 - Learning GraphQL
-- Python
 - Learning Rust
 
 <br />
