@@ -1,14 +1,13 @@
-## Hello there, I'm DCBuilder and I'm a full stack blockchain developer
+## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r) and I'm a full stack blockchain developer
 
-I'm a freelance full stack blockchain developer, researcher and writer. I'm also into NFTs, public goods, and more.
+I'm a freelance full stack blockchain developer, researcher and educator. I love public goods and regenerative cryptoeconomics.
 
-Here to change the world for the better. #Ethereum #Bankless #NFTs #Metaverse #L2s #Web3 #DeFi
+Here to change the world for the better. #Ethereum #Bankless #L2s #Web3 #DeFi #MEV 
 
 # Working hard to become a senior full-stack blockchain dev.  
 
-- 💻 I'm part of the [Moralis](https://moralis.io/) Blockchain research team
-- 🎓 I'm writing a blockchain development guide, stay tuned ([devpill.me](https://devpill.me/) / [Twitter](https://twitter.com/devpillme))
-- 👨‍💻 <a href="https://twitter.com/EthernautDAO">EthernautDAO:</a> I underwent a mentorship program by <a href="https://twitter.com/austingriffith">Austin Griffith</a>, a builder on Ethereum and creator of <a href="https://github.com/austintgriffith/scaffold-eth">scaffold-eth</a> and more.
+- 💻 I'm a blockchain dev [@alongsidefi](https://twitter.com/alongsidefi) and working with TribeDAO ([@feiprotocol](https://twitter.com/feiprotocol) and [@raricapital](https://twitter.com/RariCapital).
+- 🎓 I'm writing a blockchain development guide as a public good, stay tuned ([devpill.me](https://devpill.me/) / [Twitter](https://twitter.com/devpillme))
 - Learning by following my Twitter frens on GitHub [@transmissions11](https://twitter.com/transmissions11), [@m1guelpf](https://twitter.com/m1guelpf), [@gakonst](https://twitter.com/gakonst), etc
 - 🔥 I have a passion for web3, AI, mathematics, physics and more.
 - 🎯 My current goal is to become a highly skilled blockchain developer in order to create the future of human interaction and coordination.
