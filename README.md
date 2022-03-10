@@ -6,7 +6,7 @@ Here to change the world for the better. #Ethereum #Bankless #L2s #Web3 #DeFi #M
 
 # Working hard to become a senior full-stack blockchain dev.  
 
-- 💻 I'm a blockchain dev [@alongsidefi](https://twitter.com/alongsidefi) and working with TribeDAO ([@feiprotocol](https://twitter.com/feiprotocol) and [@raricapital](https://twitter.com/RariCapital).
+- 💻 I'm a blockchain dev [@alongsidefi](https://twitter.com/alongsidefi) and working with TribeDAO ([@feiprotocol](https://twitter.com/feiprotocol) and [@raricapital](https://twitter.com/RariCapital)).
 - 🎓 I'm writing a blockchain development guide as a public good, stay tuned ([devpill.me](https://devpill.me/) / [Twitter](https://twitter.com/devpillme))
 - Learning by following my Twitter frens on GitHub [@transmissions11](https://twitter.com/transmissions11), [@m1guelpf](https://twitter.com/m1guelpf), [@gakonst](https://twitter.com/gakonst), etc
 - 🔥 I have a passion for web3, AI, mathematics, physics and more.
