@@ -1,14 +1,15 @@
-## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r) and I'm a full stack blockchain developer
+## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r) and I'm a research engineer.
 
 I'm a freelance full stack blockchain developer, researcher and educator. I love public goods and regenerative cryptoeconomics.
 
-Here to change the world for the better. #Ethereum #Bankless #L2s #Web3 #DeFi #MEV 
+Here to change the world for the better.
 
-# Working hard to become a senior full-stack blockchain dev.  
+# Working hard to become a senior developer.  
 
-- 💻 I'm a research engineer [@alongsidefi](https://twitter.com/alongsidefi) and working with TribeDAO ([@feiprotocol](https://twitter.com/feiprotocol) and [@raricapital](https://twitter.com/RariCapital)).
+- 💻 I'm a research engineer [@alongsidefi](https://twitter.com/alongsidefi).
 - 🎓 I'm writing a blockchain development guide as a public good, stay tuned ([devpill.me](http://devpill.me/) / [Twitter](https://twitter.com/devpillme))
-- Learning by following my Twitter frens on GitHub [@transmissions11](https://twitter.com/transmissions11), [@m1guelpf](https://twitter.com/m1guelpf), [@gakonst](https://twitter.com/gakonst), etc
+- I'm currently advising two blockchain development bootcamps on how to structure their curriculums for maximum learning, striking partnerships, sourcing mentors/TAs, etc.
+- Focusing on cryptography, L2 scalability and recently MEV.
 - 🔥 I have a passion for web3, AI, mathematics, physics and more.
 - 🎯 My current goal is to become a highly skilled blockchain developer in order to create the future of human interaction and coordination.
 
@@ -28,8 +29,7 @@ Here to change the world for the better. #Ethereum #Bankless #L2s #Web3 #DeFi #M
 - Python
 - PostgreSQL
 - Node.js
-- Learning GraphQL
-- Learning Rust
+- Rust
 
 <br />
 
