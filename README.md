@@ -1,12 +1,13 @@
 ## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r).
 
-I love public goods and regenerative cryptoeconomics.
+I am currently a research engineer at [Worldcoin](https://worldcoin.org/). I am currently learning about ZKML and creating a [zero-knowledge circuit for a convolutional neural](https://github.com/dcbuild3r/proto-neural-zkp/) network using Rust and the [Plonky2](https://github.com/mir-protocol/plonky2) proving system.
 
-I aim to maximize the amount of good that I can do for the world.
+My meta-goal is to maximize the positive impact I have on the world to help people and take humanity to a new age of prosperity and abundance.
 
-- 💻 I like coding and doing research in various fields.
+After a few years of trying out different things I decided that crypto and web3 were the best tools for me to accomplish this.
+
+- 💻 I do research in Cryptography (ZK*), Ethereum, L2 scaling solutions, MEV and more!
 - 🎓 I'm writing a blockchain development guide as a public good, stay tuned ([devpill.me](http://devpill.me/) / [Twitter](https://twitter.com/devpillme))
-- Focusing on cryptography, ZK, Ethereum.
 - 🔥 I have a passion for web3, AI, mathematics, physics and more.
 - I'm currently advising two blockchain development bootcamps on how to structure their curriculums for maximum learning, striking partnerships, sourcing mentors/TAs, etc.ß
 
