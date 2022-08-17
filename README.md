@@ -1,6 +1,6 @@
 ## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r).
 
-I am currently a research engineer at [Worldcoin](https://worldcoin.org/). I am currently learning about ZKML and creating a [zero-knowledge circuit for a convolutional neural](https://github.com/dcbuild3r/proto-neural-zkp/) network using Rust and the [Plonky2](https://github.com/mir-protocol/plonky2) proving system.
+I am currently a research engineer at [Worldcoin](https://worldcoin.org/). I am currently learning about ZKML and creating a [zero-knowledge circuit for a convolutional neural network](https://github.com/dcbuild3r/proto-neural-zkp/) using Rust and the [Plonky2](https://github.com/mir-protocol/plonky2) proving system.
 
 My meta-goal is to maximize the positive impact I have on the world to help people and take humanity to a new age of prosperity and abundance.
 
