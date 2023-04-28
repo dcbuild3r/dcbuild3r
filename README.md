@@ -1,6 +1,6 @@
 ## Hello there, I'm [dcbuilder.eth](https://twitter.com/DCbuild3r).
 
-I am currently a research engineer at [Worldcoin](https://worldcoin.org/).
+I am a research engineer at [Worldcoin](https://worldcoin.org/).
 
 My meta-goal is to maximize the positive impact I have on the world to help people and take humanity to a new age of prosperity and abundance.
 
